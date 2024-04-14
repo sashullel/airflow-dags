@@ -7,5 +7,8 @@ originally the parsers were written in .ipynb format by the data scientists of t
 final dag dependencies:
 
 
-![image](https://github.com/sashullel/airflow-dags/assets/91670224/308892e7-ff77-4d99-9875-0f55090c3f94)
+
+![image](https://github.com/sashullel/airflow-dags/assets/91670224/cdca72a2-f9dc-4d9c-824a-be25d34d4c92)
+
+
 
