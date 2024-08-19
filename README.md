@@ -1,5 +1,5 @@
 # airflow-dags
-here you can find dags implemented for a [project](https://lad-academy.ru/project-reviews) during my internship at LAD Academy.
+here you can find dags implemented for a [project](https://reviews.lad-academy.ru/) during my internship at LAD Academy.
 originally the parsers were written in .ipynb format by the data scientists of the project (dreamjob, orabote and pravda parsers by me), then i converted them into dags.
 
 
